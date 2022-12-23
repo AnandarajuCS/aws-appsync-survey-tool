@@ -48,7 +48,7 @@ This is a demonstration solution that uses AWS AppSync to implement a survey app
 
 ![](src/assets/surveytoolarchitecture.png)
 
-## Getting Started
+## Getting Started:
 
 ### Prerequisites
 
